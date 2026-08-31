@@ -1,0 +1,13 @@
+flask
+pillow
+numpy
+pandas
+sqlalchemy
+opencv-python
+tqdm
+
+ultralytics
+scikit-learn
+insightface
+facenet-pytorch
+torch
